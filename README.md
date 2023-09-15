@@ -3,5 +3,5 @@ Uber Technologies, Inc., a global leader in the transportation network industry,
 
 In this MI PE Project, I did an Exploratory Data Analysis (EDA) to extract insights and determine patterns from Uber's extensive data. My objective was to help Uber with a comprehensive understanding of its demand profile and facilitate strategic actions that would elevate business outcomes. 
 
-In addition to this, I designed a dynamic Power BI dashboard to vividly showcase the findings. This interactive platform was carefully crafted to offer a compelling visual narrative, allowing everyone to delve into the insights and make informed decisions.
+In addition to this, I designed a dynamic Power BI dashboard to vividly showcase the findings. This interactive platform was carefully crafted to offer a compelling visual narrative of Uber' pickups profile,, allowing everyone to delve into the insights and make informed decisions.
     
